@@ -1,5 +1,5 @@
 FROM debian:buster
-MAINTAINER Yves de Montbrun <yde-mont@student.42.fr>
+MAINTAINER Yves Baquet <ybaquet@nowhere.null>
 
 RUN	apt-get update;  \
 	apt-get upgrade -y; \
